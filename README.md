@@ -57,7 +57,7 @@ Capstone Project for [BioinformHer Mini Project – Module 2](https://github.com
 ### 5. Phylogenetic Tree Construction
 - The MSA file was imported into **MEGA X**, and a **Maximum Likelihood Tree** was constructed using the **Tamura-Nei** model with **500 bootstrap replicates**.
 
-## 🌍 Species Analyzed and Results Summary
+## Species Analyzed and Results Summary
 
 | Common Name | Scientific Name            | Accession No.   | % Identity with Human HBB |
 |-------------|----------------------------|------------------|----------------------------|
