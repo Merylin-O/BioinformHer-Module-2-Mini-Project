@@ -92,4 +92,4 @@ Capstone Project for [BioinformHer Mini Project – Module 2](https://github.com
 - [MEGA X Manual](https://www.megasoftware.net/)
 
 
-Thank you for reading to this point. More details are in the uploaded pdf
+Thank you for reading to this point. More details are in the uploaded pdf, [HBB_MiniProject_Merylin Wuraola Ogunlola](https://github.com/Merylin-O/BioinformHer-Module-2-Mini-Project/blob/main/HBB_MiniProject_Merylin%20Wuraola%20Ogunlola.pdf)
